@@ -1,0 +1,4 @@
+{"DurationInMilliseconds":120170,"InsertTime":"2020-09-30 15:04:39","NumRecords":1000000,"SizeInMB":1965.507495880127,"ThroughputInMB":16.356058050096753}
+{"DurationInMilliseconds":95795,"InsertTime":"2020-09-30 15:06:41","NumRecords":1000000,"SizeInMB":1966.3842658996582,"ThroughputInMB":20.527003141078954}
+{"DurationInMilliseconds":101024,"InsertTime":"2020-09-30 15:08:39","NumRecords":1000000,"SizeInMB":1966.4769172668457,"ThroughputInMB":19.46544303598002}
+{"DurationInMilliseconds":82417,"InsertTime":"2020-09-30 15:10:18","NumRecords":1000000,"SizeInMB":1966.4769172668457,"ThroughputInMB":23.86008854079675}
